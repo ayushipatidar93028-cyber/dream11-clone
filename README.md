@@ -2,7 +2,7 @@ Dream11 Clone – Fantasy Sports Website
 A modern and responsive **Dream11-inspired fantasy sports web app** built using HTML, CSS, and JavaScript.
 
 Live Demo
-(we will update this after deploying)
+https://ayushipatidar93028-cyber.github.io/dream11-clone/
 
 Features
 - Glassmorphism UI design
